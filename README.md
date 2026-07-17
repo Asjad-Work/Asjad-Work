@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7dd3fc&height=230&section=header&text=Asjad%20Ali&fontSize=48&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=Cyber%20Security%20Student&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d3b1e,100:00ff41&height=230&section=header&text=Asjad%20Ali&fontSize=48&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=Cyber%20Security%20Student&descAlignY=55&descSize=18)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Learning+Python+%2B+C%2B%2B;Exploring+Networking+%26+AWS;Cisco+NetAcad+Cybersecurity+Path)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Learning+Python+%2B+C%2B%2B;Exploring+Networking+%26+AWS;Cisco+NetAcad+Cybersecurity+Path)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,9 +29,9 @@ const asjad = {
 
 <div align="center">
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Cisco%20NetAcad%20Path-2563eb?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Fundamentals-2563eb?style=for-the-badge&logo=cisco&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Practicing%20Daily-2563eb?style=for-the-badge&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Cisco%20NetAcad%20Path-15803d?style=for-the-badge&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Fundamentals-15803d?style=for-the-badge&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Practicing%20Daily-15803d?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -56,7 +56,7 @@ Language | Python
 </td>
 <td width="50%" valign="top">
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Asjad-Work&repo=library-management-system-python&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&hide_border=true)](https://github.com/Asjad-Work/library-management-system-python)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Asjad-Work&repo=library-management-system-python&theme=nord&title_color=00ff41&text_color=00ff41&icon_color=00ff41&hide_border=true)](https://github.com/Asjad-Work/library-management-system-python)
 
 </td>
 </tr>
@@ -86,11 +86,11 @@ Language | Python
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=Asjad-Work&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc)
+![Streak](https://streak-stats.demolab.com/?user=Asjad-Work&theme=nord&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asjad-Work&color=7dd3fc&line=7dd3fc&point=7dd3fc&area_color=7dd3fc&hide_border=true&bg_color=0d1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asjad-Work&color=00ff41&line=00ff41&point=00ff41&area_color=00ff41&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -108,6 +108,6 @@ Language | Python
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:2563eb,100:0f172a&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d3b1e,100:000000&height=120&section=footer)
 
 </div>

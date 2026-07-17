@@ -35,7 +35,7 @@ const asjad = {
 ### library-management-system-python
 A Python powered Library Management System with member registration, real-time book tracking, and smart tiered fine calculation for overdue or damaged returns.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Asjad-Work&repo=library-management-system-python&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&hide_border=true)](https://github.com/Asjad-Work/library-management-system-python)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Asjad-Work&repo=library-management-system-python&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&hide_border=true)](https://github.com/Asjad-Work/library-management-system-python)
 
 | Layer | Technology |
 |---|---|
@@ -61,8 +61,8 @@ A Python powered Library Management System with member registration, real-time b
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Asjad-Work&show_icons=true&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asjad-Work&layout=compact&theme=nord&title_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc&hide_border=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=Asjad-Work&show_icons=true&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Asjad-Work&layout=compact&theme=nord&title_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc&hide_border=true)
 
 <br>
 

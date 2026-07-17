@@ -8,7 +8,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Asjad-Work&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
+*🎯 Curious about how systems break — and learning how to defend them.*
 
 </div>
 
@@ -26,6 +26,18 @@ const asjad = {
   openTo: ["Cybersecurity learning opportunities", "Collaboration"],
 } as const;
 ```
+
+<br>
+
+## 🌱 Currently Focused On
+
+<div align="center">
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Cisco%20NetAcad%20Path-2563eb?style=for-the-badge&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Fundamentals-2563eb?style=for-the-badge&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Practicing%20Daily-2563eb?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 <br>
 
@@ -78,10 +90,6 @@ Language | Python
 
 <div align="center">
 
-![Stats](https://github-stats-extended.vercel.app/api?username=Asjad-Work&show_icons=true&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&hide_border=true&hide=stars,prs,issues,contribs)
-
-<br>
-
 ![Streak](https://streak-stats.demolab.com/?user=Asjad-Work&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc)
 
 <br>
@@ -103,6 +111,10 @@ Language | Python
 <br>
 
 <div align="center">
+
+*Thanks for stopping by — always open to connecting with fellow learners! 🚀*
+
+<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:2563eb,100:0f172a&height=120&section=footer)
 

@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Cyber+Security+Student+%F0%9F%94%90;Learning+Python+%2B+C%2B%2B;Exploring+Networking+%26+AWS;Cisco+NetAcad+Cybersecurity+Path)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Learning+Python+%2B+C%2B%2B;Exploring+Networking+%26+AWS;Cisco+NetAcad+Cybersecurity+Path)](https://git.io/typing-svg)
 
 </div>
 

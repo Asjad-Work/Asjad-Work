@@ -8,8 +8,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Asjad-Work&color=7dd3fc&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Asjad-Work?label=FOLLOWERS&style=for-the-badge&color=7dd3fc)
+![Profile Views](https://komarev.com/ghpvc/?username=Asjad-Work&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -75,12 +74,11 @@ Language | Python
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Stats](https://github-stats-extended.vercel.app/api?username=Asjad-Work&show_icons=true&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&hide_border=true)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Asjad-Work&layout=compact&theme=nord&title_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc&hide_border=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=Asjad-Work&show_icons=true&theme=nord&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&hide_border=true&hide=stars,prs,issues,contribs)
 
 <br>
 
